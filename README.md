@@ -19,6 +19,6 @@ __Attendance:__ In order to successfully earn the credit, it is expected that at
 __Touchdesigner Link:__ https://derivative.ca/download
 
 # Schedule
-__05-06 June__: Networks / Visual Storytelling / Data Inputs
-__21-22-23 June__: A/V Environments (Bio Design Lab & Organics Seminar)
-__12-13 July__: Controllers / Arduino
+__05-06 June__: Networks / Visual Storytelling / Data Inputs  <br />
+__21-22-23 June__: A/V Environments (Bio Design Lab & Organics Seminar)  <br />
+__12-13 July__: Controllers / Arduino  <br />
