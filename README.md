@@ -22,3 +22,10 @@ __Touchdesigner Link:__ https://derivative.ca/download
 __05-06 June__: Networks / Visual Storytelling / Data Inputs  <br />
 __21-22-23 June__: A/V Environments (Bio Design Lab & Organics Seminar)  <br />
 __12-13 July__: Controllers / Arduino  <br />
+
+
+
+# Resources
+https://olib.amb-service.net/
+https://alltd.org/
+https://matthewragan.com/
